@@ -3,6 +3,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
+// Added one line to the file to check the changes
 
 KEY_CODES = {
   13: 'enter',
